@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MorakEventsCheck-In</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchByCode">Transaction #</string>
+    <string name="searchButton">Search</string>
+    <string name="purchasedTicketByNumber">Purchased Tickets:</string>
+    <string name="checkinButton">Check-In</string>
+    <string name="display_tickets">Selected Tickets:</string>
+    <string name="CustomerName">Name</string>
+    <string name="EventName">Event</string>
+    <string name="display"></string>
+    <string name="login">Login</string>
+
+</resources>
